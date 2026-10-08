@@ -11,3 +11,4 @@ Telegram-бот принимает напоминания в формате:
 1. Создать PostgreSQL базу `telegram_bot` и пользователя `telegram_bot_user`.
 2. Установить пароль пользователя `telegram_bot_password`.
 3. Вставить токен BotFather в `src/main/resources/application.properties` вместо `PASTE_TOKEN_FROM_BOTFATHER_HERE`.
+4. Готово! Пользуйтесь на здоровье)
