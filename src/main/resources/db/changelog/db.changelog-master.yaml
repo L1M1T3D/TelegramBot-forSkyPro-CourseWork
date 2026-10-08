@@ -1,8 +1,0 @@
-databaseChangeLog:
-  - changeSet:
-      id: 1
-      author: student
-      changes:
-        - sqlFile:
-            path: db/changelog/scripts/create-notification-task.sql
-            relativeToChangelogFile: false
